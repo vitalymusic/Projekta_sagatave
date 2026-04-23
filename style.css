@@ -2,5 +2,11 @@
 :root{
     /* Šeit var ielikt mainīgos, pamatkrāsas, fontus */
     --text_color:#333;
+     --background_color:#ccc;
+     --accent_color:#ed0c0c;
+    
+    
+     /* Lai izmantotu šos mainīgos jāizmanto funkcijas var(). piem color:var(--text_color) */
+
 
 }
